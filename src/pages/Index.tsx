@@ -14,7 +14,7 @@ const Index = () => {
     document.title = "CTRL Tech | IT & AI Automation Services for Small Business";
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
-      metaDescription.setAttribute("content", "CTRL Tech combines IT expertise with AI automation to eliminate inefficiencies and drive growth for businesses with 4-20 employees.");
+      metaDescription.setAttribute("content", "CTRL Tech combines IT expertise with AI automation to eliminate inefficiencies and drive growth for your businesse.");
     }
 
     // Add schema markup
